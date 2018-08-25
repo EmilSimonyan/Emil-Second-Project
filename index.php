@@ -6,6 +6,6 @@
 <body>
 <<p>aaaaaaaaaas</p>
 <<p>aaaaaaaaaas</p>
-<<p>aaaaaaaaaas</p>
+<<input type="color" name="" value="" placeholder="">
 </body>
 </html>
